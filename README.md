@@ -1,1 +1,1 @@
-Early Founders Python Bootcamp in partnership with the African Leadership University
+J24 BSE Low Level Programming in class Exercises
